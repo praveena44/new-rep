@@ -1,4 +1,6 @@
 This is A file of master
-Lorem Ipsum Dolor Sit
+branch-3
 Lorem Ipsum of branch-3
+Lorem Ipsum of branch-2
+Lorem Ipsum master
 Dolor Sit
